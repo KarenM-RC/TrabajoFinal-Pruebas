@@ -1,8 +1,9 @@
 <html>
+<head> <link href = "styles.css" rel= "stylesheet" type= "text/css">
+</head>
 <body>
-<h2>Hello World!</h2>
-<h3>Hola Mundo Pruebas y gestión de la configuración </h3>
- <p>Jhoan Nicolas Palomino Posada </p>
- <p>Karen Melissa Ramirez Casas </p>
+<div class="bg-2">
+     <h1 class="t-stroke-shadow">HOLA MUNDO - KAREN</h1>
+</div>
 </body>
 </html>
